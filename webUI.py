@@ -238,4 +238,4 @@ for category, models in model_dict.items():
 print("Models downloaded successfully!!!")
 print("Starting WebUI...")
 webui = UVRWebUI(uvr, online_data_path='models/download_checks.json')
-webui.launch(share=True)
+webui.launch()
