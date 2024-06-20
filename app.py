@@ -7,7 +7,7 @@ Ngrok_domain = "" # optional, leave empty if you don't have a domain
 
 # -------------------------------- #
 
-!pip install pyngrok
+pip install pyngrok
 
 from pyngrok import ngrok, conf
 import fileinput
