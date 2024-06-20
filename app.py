@@ -1,6 +1,5 @@
 import os
 
-%cd /kaggle/working/ai-voice-cloning
 Ngrok_token = "2hF4nM18BPxdRnYlIwUw9hae9r3_7uBDMDgctvhhJZb4SEJKu" #@param {type:"string"}
 # Put your ngrok token here (obtainable from https://ngrok.com)
 
